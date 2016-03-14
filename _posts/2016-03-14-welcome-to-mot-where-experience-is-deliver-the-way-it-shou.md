@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Welcome to MoT , where experience is deliver the way it should be.\_"
-datePublished: '2016-03-14T15:06:59.103Z'
-dateModified: '2016-03-14T15:06:21.149Z'
+description: "Welcome to MoT.\_"
+datePublished: '2016-03-14T15:07:32.993Z'
+dateModified: '2016-03-14T15:07:08.690Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-14-welcome-to-mot-where-experience-is-deliver-the-way-it-shou.md
