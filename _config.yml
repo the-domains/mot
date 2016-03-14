@@ -1,0 +1,28 @@
+name: MoT
+favicon: null
+layout_spectrum: 0.7726559988223016
+typography_spectrum: 0.8558186914306134
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.36667899251915514
+  lightness: 0.27213145256973803
+  saturation: 0.5190302261617035
+  rhythmicContrast: 0.1444775650743395
+purpose: []
