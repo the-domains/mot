@@ -1,7 +1,7 @@
 name: MoT
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.8558186914306134
+layout_spectrum: 0.48831
+typography_spectrum: 0.49332
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#d6202b'
+    - '#ffffff'
+    - '#314ea2'
+    - '#5a1245'
+    - '#fec20e'
   brandStrength: 0.36667899251915514
   lightness: 0.27213145256973803
   saturation: 0.5190302261617035
