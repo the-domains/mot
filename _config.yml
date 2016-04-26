@@ -1,29 +1,41 @@
-name: MoT
-favicon: null
-layout_spectrum: 0.48831
-typography_spectrum: 0.49332
 title: 'MoT Marketing '
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5190302261617035
+  brandStrength: 0.3666789925191551
+  lightness: 0.272131452569738
+  brandColors:
+    - '#D6212C'
+    - '#FFFFFF'
+    - '#EE979D'
+    - '#324EA2'
+    - '#FDC405'
+  rhythmicContrast: 0.1444775650743395
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: MoT
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#d6202b'
-    - '#ffffff'
-    - '#314ea2'
-    - '#5a1245'
-    - '#fec20e'
-  brandStrength: 0.36667899251915514
-  lightness: 0.27213145256973803
-  saturation: 0.5190302261617035
-  rhythmicContrast: 0.1444775650743395
-purpose: []
+typography_spectrum: 0.49332
+layout_spectrum: 0.48831
