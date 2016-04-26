@@ -2,6 +2,7 @@ name: MoT
 favicon: null
 layout_spectrum: 0.48831
 typography_spectrum: 0.49332
+title: 'MoT Marketing '
 cta:
   domain: null
   bucket: null
