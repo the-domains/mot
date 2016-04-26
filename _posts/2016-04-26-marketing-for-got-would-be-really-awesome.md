@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'marketing for GoT would be really awesome ! '
-datePublished: '2016-04-26T14:11:35.750Z'
-dateModified: '2016-04-26T14:11:07.735Z'
+datePublished: '2016-04-26T14:26:13.525Z'
+dateModified: '2016-04-26T14:26:01.064Z'
 authors: []
 publisher:
   name: null
@@ -15,9 +15,9 @@ publisher:
   favicon: null
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-04-26-marketing-for-got-would-be-really-awesome.md
 published: true
+starred: false
 url: marketing-for-got-would-be-really-awesome/index.html
 _type: Article
 
